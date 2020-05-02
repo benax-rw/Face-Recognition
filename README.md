@@ -27,7 +27,7 @@ This project consist of 3 parts, which are:
 5. OpenCV Documentation, link: http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
 
 ## Tips
-- If you don't understand what the code do, I already comments it line by line. 
+- If you don't understand what the code do, I already comment it line by line. 
 - You also can Google the syntax, and read the explanation from OpenCV Documentation.
 - Feel free to ask me through my email: nazmiasri95@gmail.com
 
